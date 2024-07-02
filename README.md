@@ -79,5 +79,7 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhwnahid007&theme=radical" alt="nhwnahid007" style="height: 200px;" />
 </p>
 
-![snake gif](https://github.com/your_github_name/your_github_name/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/nhwnahid007/nhwnahid007/output/snake.svg" alt="Snake animation" />
+
+###
 
