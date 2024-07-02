@@ -33,13 +33,11 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhwnahid007&theme=radical" alt="nhwnahid007" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhwnahid007&show_icons=true&locale=en&layout=compact&theme=radical" alt="nhwnahid007" />
-</p>
+<div style="display: flex; align-items: stretch;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhwnahid007&show_icons=true&locale=en&layout=compact&theme=radical" alt="nhwnahid007" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhwnahid007&show_icons=true&locale=en&theme=radical" alt="nhwnahid007" style="height: 200px;" />
+</div>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhwnahid007&show_icons=true&locale=en&theme=radical" alt="nhwnahid007" />
-</p>
 
 
 
