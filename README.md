@@ -15,7 +15,7 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1JreRvC-w9oWLc8q8xKG-hCAtx3dfuAPq/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny programmer**
+- ⚡ Fun fact **I am a crazy learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
