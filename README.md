@@ -69,8 +69,8 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhwnahid007&show_icons=true&locale=en&layout=compact&theme=radical" alt="nhwnahid007" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nhwnahid007&show_icons=true&locale=en&theme=radical" alt="nhwnahid007" style="height: 200px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhwnahid007&theme=radical" alt="nhwnahid007" style="height: 200px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhwnahid007&theme=radical" alt="nhwnahid007" style="height: 200px;" />
 </p>
 
 
