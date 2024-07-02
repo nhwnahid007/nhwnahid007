@@ -65,6 +65,12 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
 </p>
 
 <p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=nhwnahid&icon=0&color=0" alt="Visit Count">
+  </a>
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhwnahid007&theme=radical" alt="nhwnahid007" />
 </p>
 
