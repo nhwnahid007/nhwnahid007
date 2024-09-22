@@ -79,4 +79,8 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhwnahid007&theme=radical" alt="nhwnahid007" style="height: 200px;" />
 </p>
 
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhwnahid007&theme=github&bg_color=000000&color=FFA500&line=FFD700&point=FFFFFF&area_color=000000&title_color=FFFFFF" alt="Nahid's GitHub Activity Graph" style="width:100%; max-width:700px; border-radius:10px; margin-top: 20px;">
+</p>
 
