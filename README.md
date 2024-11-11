@@ -11,7 +11,7 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nahidul-nhw-portfolio.vercel.app)
 - 💬 Ask me about **React.js**
 - 📫 How to reach me: **nhwnahid@gmail.com**
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1JreRvC-w9oWLc8q8xKG-hCAtx3dfuAPq/view?usp=sharing](https://drive.google.com/file/d/1aW1Sd9iXJYwHJ7WxhxKRKXPcU2-MCKzi/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1aW1Sd9iXJYwHJ7WxhxKRKXPcU2-MCKzi/view?usp=sharing)
 - ⚡ Fun fact: **I am a crazy learner**
 
 <h3 align="left">Connect with me:</h3>
