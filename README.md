@@ -14,7 +14,7 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1aW1Sd9iXJYwHJ7WxhxKRKXPcU2-MCKzi/view?usp=sharing)
 - ⚡ Fun fact: **My passion for tech is matched by my love for problem-solving—whether it's cracking a tough code or figuring out a new strategy, I’m always ready for a challenge!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
   <a href="https://linkedin.com/in/nhwnahid" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhwnahid" height="30" width="40" />
