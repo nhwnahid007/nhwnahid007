@@ -82,4 +82,5 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhwnahid007&theme=github&bg_color=000000&color=FFA500&line=FFD700&point=9370DB&area_color=000000&title_color=FFFFFF&radius=16" alt="Nahid's GitHub Activity Graph" style="width:100%; max-width:700px; border-radius:20px; margin-top: 20px;">
 </p>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nhwnahid007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
