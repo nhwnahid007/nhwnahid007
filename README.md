@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/n1rMGDP/banner-web.png" alt="Web developer" style="width:100%; max-width:600px; border-radius:30px; overflow:hidden;">
 </p>
 
-I am a passionate web developer specializing in React, Express, Firebase, Node, and MongoDB. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
+I am a passionate web developer specializing in **React**, **Express**, **Firebase**, **Node.js**, and **MongoDB**. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
 
 - 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nahidul-nhw-portfolio.vercel.app)
@@ -14,7 +14,9 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1aW1Sd9iXJYwHJ7WxhxKRKXPcU2-MCKzi/view?usp=sharing)
 - ⚡ Fun fact: **My passion for tech is matched by my love for problem-solving—whether it's cracking a tough code or figuring out a new strategy, I’m always ready for a challenge!**
 
-<h3 align="left">Connect with me: </h3>
+---
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/nhwnahid" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhwnahid" height="30" width="40" />
@@ -23,6 +25,8 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhwnahid" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -64,9 +68,13 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
   </a>
 </p>
 
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nhwnahid007&color=ff69b4" alt="Visitor Count" />
 </div>
+
+---
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhwnahid007&theme=radical" alt="nhwnahid007" />
@@ -77,10 +85,14 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhwnahid007&theme=radical" alt="nhwnahid007" style="height: 200px;" />
 </p>
 
+---
+
 <!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhwnahid007&theme=github&bg_color=000000&color=FFA500&line=FFD700&point=9370DB&area_color=000000&title_color=FFFFFF&radius=16" alt="Nahid's GitHub Activity Graph" style="width:100%; max-width:700px; border-radius:20px; margin-top: 20px;">
 </p>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nhwnahid007&theme=flat&no-frame=false&no-bg=true&margin-w=4)
