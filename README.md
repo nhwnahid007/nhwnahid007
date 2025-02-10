@@ -70,6 +70,8 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=nhwnahid007&color=ff69b4)
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhwnahid007&theme=radical" alt="nhwnahid007" />
 </p>
