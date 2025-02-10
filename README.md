@@ -83,4 +83,4 @@ I am a passionate web developer specializing in React, Express, Firebase, Node, 
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nhwnahid007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nhwnahid007&theme=flat&no-frame=false&no-bg=true&margin-w=4)
