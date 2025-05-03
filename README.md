@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/n1rMGDP/banner-web.png" alt="Web developer banner" width="100%" />
+  <img src="https://i.ibb.co.com/zTkk1vtW/banner-web.png" width="100%" />
 </p>
 
 I am a passionate web developer specializing in **React**, **Express**, **Firebase**, **Node.js**, and **MongoDB**. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
