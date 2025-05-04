@@ -7,7 +7,7 @@
 
 I am a passionate web developer specializing in **React**, **Express**, **Firebase**, **Node.js**, and **MongoDB**. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescript**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nahidul-nhw-portfolio.vercel.app)
 - 💬 Ask me about **React.js**
 - 📫 How to reach me: **nhwnahid@gmail.com**
