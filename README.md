@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjczNHlhcmFydXk2cnF6dTdicjhmZzNxeHU5dDV2dXFxZDVkMTNycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
 </div>
 
 I am a passionate web developer specializing in **React**, **Express**, **Firebase**, **Node.js**, and **MongoDB**. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
