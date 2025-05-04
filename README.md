@@ -58,3 +58,8 @@ I am a passionate web developer specializing in **React**, **Express**, **Fireba
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nhwnahid007&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
+
+<img src="https://raw.githubusercontent.com/nhwnahid007/nhwnahid007/output/snake.svg" alt="Snake animation" />
