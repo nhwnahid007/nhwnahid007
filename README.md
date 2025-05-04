@@ -62,4 +62,4 @@ I am a passionate web developer specializing in **React**, **Express**, **Fireba
 
 ---
 
-<img src="https://raw.githubusercontent.com/nhwnahid007/nhwnahid007/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nhwnahid007/nhwnahid007/output/github-snake.svg" alt="Snake animation" />
