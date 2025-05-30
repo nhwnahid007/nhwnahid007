@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
 </div>
 
-I am a passionate web developer specializing in **React**, **Express**, **Firebase**, **Node.js**, and **MongoDB**. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
+I am a passionate web developer specializing in **React**, **Express**, **Node.js**, and **MongoDB**. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
 
 - 🌱 I’m currently learning **Typescript**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nahidul-nhw-portfolio.vercel.app)
