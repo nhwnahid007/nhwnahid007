@@ -12,7 +12,7 @@ I am a passionate web developer specializing in **React**, **Express**, **Fireba
 - 💬 Ask me about **React.js**
 - 📫 How to reach me: **nhwnahid@gmail.com**
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1aW1Sd9iXJYwHJ7WxhxKRKXPcU2-MCKzi/view?usp=sharing)
-- ⚡ Fun fact: **My passion for tech is matched by my love for problem-solving—whether it's cracking a tough code or figuring out a new strategy, I’m always ready for a challenge!**
+- ⚡ Fun fact: **My passion for tech is matched by my love for problem-solving. Whether it's cracking a tough code or figuring out a new strategy, I’m always ready for a challenge!**
 
 ---
 
