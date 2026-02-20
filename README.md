@@ -79,9 +79,15 @@ I am a passionate web developer specializing in **React**, **Express**, **Node.j
 
 ---
 
-<img src="https://raw.githubusercontent.com/nhwnahid007/nhwnahid007/output/github-snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/nhwnahid007/nhwnahid007/output/github-snake.svg" alt="Snake animation" /> -->
 
 ---
 
+###
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nhwnahid007/nhwnahid007/output/pacman-contribution-graph.svg" alt="Pacman Animation" />
+</p>
+
+###
 
