@@ -47,13 +47,12 @@ Full-Stack Developer specializing in Next.js, TypeScript, and the MERN stack. I 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhwnahid007&color=ff69b4" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=nhwnahid007&color=9EDEF0&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
 
 
-
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhwnahid007&theme=radical" alt="nhwnahid007" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhwnahid007&theme=tokyonight&background=0D1117&fire=9EDEF0&ring=9EDEF0&currStreakNum=9EDEF0&sideNums=FFFFFF&currStreakLabel=9EDEF0&sideLabels=FFFFFF&dates=9EDEF0&hide_border=true" alt="nhwnahid007" />
 </p>
 
 <!-- <p align="center">
@@ -65,7 +64,7 @@ Full-Stack Developer specializing in Next.js, TypeScript, and the MERN stack. I 
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhwnahid007&theme=github&bg_color=000000&color=FFA500&line=FFD700&point=9370DB&area_color=000000&title_color=FFFFFF&radius=16" alt="Nahid's GitHub Activity Graph" style="width:100%; max-width:700px; border-radius:20px; margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhwnahid007&theme=react-dark&bg_color=0D1117&color=9EDEF0&line=9EDEF0&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&radius=16&hide_border=true" alt="Nahid's GitHub Activity Graph" style="width:100%; max-width:700px; border-radius:20px;">
 </p>
 
 ---
