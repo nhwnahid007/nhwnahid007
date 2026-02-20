@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Nahidul Islam</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9EDEF0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%26+TypeScript+Expert;Mastering+Backend+Architecture;Drizzle+ORM+%26+PostgreSQL" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
@@ -7,12 +10,12 @@
 
 I am a passionate web developer specializing in **React**, **Express**, **Node.js**, and **MongoDB**. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
 
-- 🌱 I’m currently learning **Typescript**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://nahidul-nhw-portfolio.vercel.app)
-- 💬 Ask me about **React.js**
-- 📫 How to reach me: **nhwnahid@gmail.com**
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1DCS_g3MSJKHt7ueq0mrVjijIOHxdvuhV/view?usp=drive_link)
-- ⚡ Fun fact: **Sometimes I write code that even future me can’t understand. It's like leaving puzzles for myself.**
+
+- 👨‍💻 **Portfolio:** [Visit Here](https://nahidul-nhw-portfolio.vercel.app)
+- 📄 **Resume:** [View Professional Experience](https://drive.google.com/file/d/1DCS_g3MSJKHt7ueq0mrVjijIOHxdvuhV/view?usp=drive_link)
+- 💬 **Ask me about:** React, Next.js, and Typescript.
+- 📫 **Contact:** [nhwnahid@gmail.com](mailto:nhwnahid@gmail.com)
+- ⚡ **Fun Fact:** I write code like I'm leaving secret puzzles for my future self to solve. It’s a love-hate relationship! 🧩
 
 ---
 
@@ -80,10 +83,5 @@ I am a passionate web developer specializing in **React**, **Express**, **Node.j
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nhwnahid007&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-
-
----
 
 
