@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
 </div>
 
-I am a passionate web developer specializing in **React**, **Express**, **Node.js**, and **MongoDB**. With a strong foundation in web development, I am committed to continuous learning and staying updated with the latest industry trends. Let's work together to bring your ideas to life!
+Full-Stack Developer specializing in Next.js, TypeScript, and the MERN stack. I build scalable, type-safe web applications with a focus on clean code and modern standards. Always learning, always building. Let's turn your ideas into reality!
 
 
 - 👨‍💻 **Portfolio:** [Visit Here](https://nahidul-nhw-portfolio.vercel.app)
